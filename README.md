@@ -26,8 +26,8 @@ Staying Idle doesn't give you anything Let's gearup our skills by doing atleast 
 
 | Day Number | Topic | Website Link | Difficulty |
 | ---------- | ----- | ------------ | ---------: |
-| [Day 1](./Day1) | [](./Day1/) | [) | **Beginner** |
-| [Day 2](./Day2) | [](./Day2/) | [) | **Beginner** |
+| [Day 1](./Day1) | [JUMPING FROGS](./Day1/) | [https://github.com/Produtive-IBMers/DailyCodes/tree/main/Day%201) | **Beginner** |
+| [Day 2](./Day2) | [DECODE IT](./Day2/) | [https://github.com/Produtive-IBMers/DailyCodes/tree/main/Day%202) | **Beginner** |
 | [Day 3](./Day3) | [](./Day3/) | [) | **Beginner** |
 | [Day 4](./day4) | [](./day4/) | [) | **Intermediate** |
 | [Day 5](./day5) | [](./day5/) | [) | **Intermediate** |
