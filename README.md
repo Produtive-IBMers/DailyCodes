@@ -8,7 +8,7 @@
   Code Daily, add your solutions to the given problem, submit a PR (along with that don't forget to add your name in the contributors list!)
 </p>
 
-<!-- <a style="margin: 0" href=" https://t.me/joinchat/NJrz7BuHY8KoVVDdu24dLA"><img src="./Telegram.png" alt="Telegram: https://t.me/joinchat/NJrz7BuHY8KoVVDdu24dLA"></a> -->
+<!-- <a style="margin: 0" href=" https://t.me/joinchat/NJrz7BuHY8KoVVDdu24dLA"><img src="https://github.com/Produtive-IBMers/DailyCodes/blob/main/Avatars/Telegram.jpg" alt="Telegram: https://t.me/joinchat/NJrz7BuHY8KoVVDdu24dLA"></a> -->
 
 ***
 
